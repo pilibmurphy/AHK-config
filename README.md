@@ -1,6 +1,6 @@
 # AHK-config
 
 Config for shortcuts to make using Windows easier
-https://www.greencrawl.com/crawl
+https://www.crawlr.com/crawl
 
-[test](https://www.greencrawl.com/crawl/1)
+[test](https://www.crawlr.com/crawl/1)
